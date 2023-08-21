@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Student Blog
----
+title: Abby's Student Blog
+--- 
 
 
 ## Build you Home Page here 
