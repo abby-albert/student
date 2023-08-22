@@ -4,7 +4,7 @@ title: Abby's Student Blog
 --- 
 
 
-## Build you Home Page here 
+## Abbys Notebook
 This is about your journey. Start now!!!
 hello
 
