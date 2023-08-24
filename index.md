@@ -6,8 +6,7 @@ title: Abby's Student Blog
 
 ## Abbys Notebook
 This is about your journey. Start now!!!
-hello
-
+![Alt text](image.png)
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
