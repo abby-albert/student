@@ -4,7 +4,7 @@ title: Abby's Student Blog
 --- 
 
 
-## <code style="color: pink;"> Abbys Notebook</code>
+## <code style="color: light blue;"> Abbys Notebook</code>
 Welcome to my page.
 ![Alt text](image.png)
 ## All About Me
