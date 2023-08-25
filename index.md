@@ -8,7 +8,7 @@ title: Abby's Student Blog
 Welcome to my page.
 ![Alt text](image.png)
 ## <code style="color: #ADD8E6;"> All About Me
-My name is Abby Albert and I am in 10th grade. My favorite things to do are read, listen to music, sleep, and hang out with my friends. I have 4 people in my family, my mom, dad, sister, and I. My dog's name is Walter and he is a 1.5 year old Golden Retriever. My favorite subects are math and science. My favoirite color is blue. 
+<code style="color: grey;"> My name is Abby Albert and I am in 10th grade. My favorite things to do are read, listen to music, sleep, and hang out with my friends. I have 4 people in my family, my mom, dad, sister, and I. My dog's name is Walter and he is a 1.5 year old Golden Retriever. My favorite subects are math and science. My favoirite color is blue. 
 
 
 ![Alt text](image-1.png)
