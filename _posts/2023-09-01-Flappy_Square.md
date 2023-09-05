@@ -7,6 +7,14 @@ description: flappy bird, but with a square instead of a bird
 courses: {'csa': {'week': 2}}
 type: hacks
 ---
+</script>
+<br>
+<button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ACCELERATE</button>
+<p>Use the ACCELERATE button to stay in the air</p>
+<p>How long can you stay alive?</p>
+</body>
+
+</html>
 <!DOCTYPE html>
 <html>
 <head>
