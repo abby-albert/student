@@ -5,7 +5,7 @@ layout: post
 title: Flappy Square 
 description: flappy bird, but with a square instead of a bird
 courses: {'csa': {'week': 2}}
-type: tangibles
+type: hacks
 ---
 <!DOCTYPE html>
 <html>

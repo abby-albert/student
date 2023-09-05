@@ -5,7 +5,7 @@ layout: post
 title: Calculator
 description: calculator
 courses: {'csa': {'week': 2}}
-type: tangibles
+type: hacks
 ---
 %%html
 <style>
