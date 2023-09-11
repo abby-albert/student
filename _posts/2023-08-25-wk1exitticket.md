@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Exit Ticket
 description: what we actually did during week 1
-courses: {'csa': {'week': 3}}
+courses: {'csa': {'week': 1}}
 type: tangibles
 ---
 
