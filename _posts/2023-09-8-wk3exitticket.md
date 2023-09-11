@@ -3,7 +3,7 @@ toc: True
 comments: false
 layout: post
 title: Exit Ticket
-description: what we actually did during week 4
+description: what we actually did during week 3
 courses: {'csa': {'week': 3}}
 type: tangibles
 ---
