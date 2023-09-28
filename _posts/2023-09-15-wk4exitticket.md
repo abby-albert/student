@@ -5,7 +5,7 @@ layout: post
 title: Exit Ticket
 description: what we actually did during week 4
 courses: {'csa': {'week': 4}}
-type: tangibles
+type: Tangibles
 ---
 
 ## Week 4 Exit Ticket
