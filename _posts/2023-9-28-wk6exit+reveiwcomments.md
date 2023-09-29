@@ -5,7 +5,7 @@ layout: post
 title: Review ticket
 description: what we actually did during week 6 and reviewers comments from web programing basics test
 courses: {'csa': {'week': 6}}
-type: Tangibles
+type: tangibles
 ---
 
 ## My Review
