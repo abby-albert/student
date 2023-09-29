@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Review ticket
 description: what we actually did during week 6 and reviewers comments from web programing basics test
-courses: {'compsci': {'week': 6}}
+courses: {'csa': {'week': 6}}
 type: Tangibles
 ---
 
