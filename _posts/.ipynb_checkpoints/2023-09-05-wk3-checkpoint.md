@@ -1,6 +1,6 @@
 ---
 toc: True
-comments: false
+comments: true
 layout: post
 title: Week 3 Plans
 description: what we wanted to do during week 3

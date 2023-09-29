@@ -1,6 +1,6 @@
 ---
 toc: True
-comments: false
+comments: true
 layout: post
 title: Spotify Playlist
 description: My Personal Spotify Playlist

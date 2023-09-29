@@ -1,6 +1,6 @@
 ---
 toc: True
-comments: false
+comments: true
 layout: post
 title: Flappy Square 
 description: flappy bird, but with a square instead of a bird

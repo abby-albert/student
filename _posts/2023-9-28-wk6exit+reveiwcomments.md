@@ -1,6 +1,6 @@
 ---
 toc: True
-comments: false
+comments: true
 layout: post
 title: Exit Ticket + Comments
 description: what we actually did during week 6 and reviewers comments from web programing basics test

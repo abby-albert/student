@@ -1,6 +1,6 @@
 ---
 toc: True
-comments: false
+comments: true
 layout: post
 title: Exit Ticket
 description: what we actually did during week 4
