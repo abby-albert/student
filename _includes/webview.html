@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Periodic Table App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .table-container {
+            display: grid;
+            grid-template-columns: repeat(18, 30px);
+            gap: 2px;
+        }
+
+        .element {
+            width: 30px;
+            height: 30px;
+            border: 1px solid #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="table-container" id="table-container">
+        <!-- Elements will be dynamically added here -->
+    </div>
+
+    <script src="webview.js"></script>
+</body>
+</html>
