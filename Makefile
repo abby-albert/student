@@ -1,5 +1,3 @@
-# Sample Makefile
-
 # Variables
 CC = gcc
 CFLAGS = -Wall
