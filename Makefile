@@ -1,3 +1,5 @@
+# Sample Makefile
+
 # Variables
 CC = gcc
 CFLAGS = -Wall
@@ -8,11 +10,11 @@ all: program
 program: main.o helper.o
 	$(CC) $(CFLAGS) -o program main.o helper.o
 
-main.o: main.c
-	$(CC) $(CFLAGS) -c main.c
+main.o: src/main.c
+	$(CC) $(CFLAGS) -c src/main.c -o main.o
 
-helper.o: helper.c
-	$(CC) $(CFLAGS) -c helper.c
+helper.o: src/helper.c
+	$(CC) $(CFLAGS) -c src/helper.c -o helper.o
 
 clean:
 	rm -f program *.o
