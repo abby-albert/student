@@ -2,7 +2,7 @@
 toc: True
 comments: true
 layout: post
-title: Trimester 1 Review
+title: Passion Project/Trimester 1 Review
 description: reviewing how i contributed to my team, what i created, and how i think our project turned out
 courses: {'csa': {'week': 12}}
 type: tangibles
