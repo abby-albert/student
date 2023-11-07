@@ -79,3 +79,6 @@ list) will always be greater than 50% of counter (the number of temperatures gre
 - D. 5 hours
 - I chose answer C: This option is incorrect. This approximation assumes that the  Analysis procedure is called only four times.
 - the right answer was D: This option is correct. Each call to the Analysis procedure requires one hour of program execution time. The procedure is called once before the loop, and then four times inside the loop (once for each of the four entries in One word, genre List). Therefore, the program will take approximately 5 hours to execute.
+
+# Overall review
+- I feel like i did pretty well, but I need to pay more attention to what the questions were asking. I would misinterpret the question and get the answer wrong. I also needed to pay more attention to the differences in the answers. I think that I understand the material well. I was suprised by how many questions were common sense rather than deciphering code. I did better on that portion of the quiz than the hard code portion, and that gives me more confidence for the AP exam in knowing that it isn't just code.  

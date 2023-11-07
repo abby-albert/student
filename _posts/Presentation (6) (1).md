@@ -194,9 +194,9 @@ type: tangibles
    "metadata": {},
    "source": [
     "## Popcorn Hack 1\n",
-    "a) Define Return Values and Output Parameters in your own words:\n",
+    "a Define Return Values and Output Parameters in your own words:\n",
     "\n",
-    "b )Code a procedure that finds the square root of any given"
+    "b Code a procedure that finds the square root of any given"
    ]
   },
   {
