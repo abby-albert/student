@@ -626,8 +626,8 @@ type: tangibles
    "metadata": {},
    "source": [
     "## Homework\n",
-    "1) Write a Python function called procedural_abstraction that demonstrates procedural abstraction by performing a specific task. Your function should take at least one parameter and return a result. \n",
-    "2) Write a Python function called summing_machine that takes two parameters, first_number and second_number, and returns the sum of these numbers. Use this function to calculate the sum of 7 and 5. Print the result.\n",
+    "1 Write a Python function called procedural_abstraction that demonstrates procedural abstraction by performing a specific task. Your function should take at least one parameter and return a result. \n",
+    "2 Write a Python function called summing_machine that takes two parameters, first_number and second_number, and returns the sum of these numbers. Use this function to calculate the sum of 7 and 5. Print the result.\n",
     "\n",
     "\n"
    ]
