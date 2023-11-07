@@ -4,11 +4,9 @@ comments: true
 layout: post
 title: Student lesson
 description: my student teaching lesson
-courses: {'csa': {'week': 9}}
+courses: {'csa': {'week': 10}}
 type: tangibles
 ---
-
-
 
 {
  "cells": [
@@ -36,11 +34,7 @@ type: tangibles
     "\n",
     "\n",
     "\n",
-    "A procedure is a group of programming instructions. They're also known as methods or functions, depending on the programming language. You can use a procedure to use the same set of instructions, again and again, without having to rewrite it into your code.In AP Pseudocode, here's how they'll represent procedures: <img src=\"https://runestone.academy/ns/books/published/mobilecsp/_static/assets/img/AP_Procedures.png\"\n",
-    "width=\"400\"\n",
-    "height=\"200\"\n",
-    "/>\n"
-   ]
+    "A procedure is a group of programming instructions. They're also known as methods or functions, depending on the programming language. You can use a procedure to use the same set of instructions, again and again, without having to rewrite it into your code.In AP Pseudocode, here's how they'll represent procedures: <img src=\
   },
   {
    "cell_type": "code",
