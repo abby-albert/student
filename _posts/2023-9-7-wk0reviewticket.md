@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: review ticket
 description: This is what I did from Wednesday, August 16-18
-type: plans
+type: tangibles
 courses: { csa: {week: 0} }
 categories: [C1.4]
 --- 
