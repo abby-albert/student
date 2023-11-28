@@ -5,7 +5,7 @@ layout: post
 title: Tri.2 lesson 1 homework
 description: Homework for lesson 1 for Internet
 courses: {'csa': {'week': 14}}
-type: plans
+type: hacks
 ---
 # Bandwidth
 1. In the context of computer networks, elaborate on the concept of bandwidth. Discuss how bandwidth influences the speed and efficiency of data transfer. Provide examples of scenarios where both high and low bandwidth can impact the performance of internet connected devices.
