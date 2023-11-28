@@ -1,15 +1,20 @@
----
-toc: True
-comments: true
-layout: post
-title: Student lesson
-description: my student teaching lesson
-courses: {'csa': {'week': 10}}
-type: tangibles
----
-
 {
  "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "---\n",
+    "toc: True\n",
+    "comments: true\n",
+    "layout: post\n",
+    "title: Trimester 1 Review\n",
+    "description: reviewing how i contributed to my team, what i created, and how i think our project turned out\n",
+    "courses: {'csa': {'week': 12}}\n",
+    "type: tangibles\n",
+    "---"
+   ]
+  },
   {
    "cell_type": "markdown",
    "metadata": {},
@@ -23,7 +28,7 @@ type: tangibles
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": 
+   "source": [
     "## Vocab\n",
     "Procedure- A named group of programming instructions that may have parameters and return values\n",
     "They are referred to by different names, such as method or function, depending on the programming language\n",
@@ -34,7 +39,11 @@ type: tangibles
     "\n",
     "\n",
     "\n",
-    "A procedure is a group of programming instructions. They're also known as methods or functions, depending on the programming language. You can use a procedure to use the same set of instructions, again and again, without having to rewrite it into your code.In AP Pseudocode, here's how they'll represent procedures: <img src=\
+    "A procedure is a group of programming instructions. They're also known as methods or functions, depending on the programming language. You can use a procedure to use the same set of instructions, again and again, without having to rewrite it into your code.In AP Pseudocode, here's how they'll represent procedures: <img src=\"https://runestone.academy/ns/books/published/mobilecsp/_static/assets/img/AP_Procedures.png\"\n",
+    "width=\"400\"\n",
+    "height=\"200\"\n",
+    "/>\n"
+   ]
   },
   {
    "cell_type": "code",
@@ -194,9 +203,9 @@ type: tangibles
    "metadata": {},
    "source": [
     "## Popcorn Hack 1\n",
-    "a Define Return Values and Output Parameters in your own words:\n",
+    "a) Define Return Values and Output Parameters in your own words:\n",
     "\n",
-    "b Code a procedure that finds the square root of any given"
+    "b )Code a procedure that finds the square root of any given"
    ]
   },
   {
@@ -626,8 +635,8 @@ type: tangibles
    "metadata": {},
    "source": [
     "## Homework\n",
-    "1 Write a Python function called procedural_abstraction that demonstrates procedural abstraction by performing a specific task. Your function should take at least one parameter and return a result. \n",
-    "2 Write a Python function called summing_machine that takes two parameters, first_number and second_number, and returns the sum of these numbers. Use this function to calculate the sum of 7 and 5. Print the result.\n",
+    "1) Write a Python function called procedural_abstraction that demonstrates procedural abstraction by performing a specific task. Your function should take at least one parameter and return a result. \n",
+    "2) Write a Python function called summing_machine that takes two parameters, first_number and second_number, and returns the sum of these numbers. Use this function to calculate the sum of 7 and 5. Print the result.\n",
     "\n",
     "\n"
    ]
