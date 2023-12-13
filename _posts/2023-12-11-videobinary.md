@@ -8,4 +8,4 @@ courses: {'csa': {'week': 16}}
 type: hacks
 ---
 
-![Binary Video](image-8.png)
+![Binary Video](video-8.png)
