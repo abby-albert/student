@@ -10,34 +10,24 @@ type: plans
 
 ## Team Teach Grading 
 
-### Crowdsourcing
-- .96/1
-### Internet
-- .93/1
-### Fault tolerance
-- .95/1
-### Undecidable Problems
-- .9/1
-
-### Beneficial and Harmful Effects of the Internet
-- 
-
-### Leagal and Ethical Concerns
-
-### digital divide
-- .9/1
-
 ### The Internet
-- .93/1
+- 0.93/1
 ### Routing and Computing
-- .85/9
+- 0.95/9
 ### Beneficial and Harmful Effects
-- 
+- 0.92/1
 ### Digital Divide
-- .9/1
+- 0.9/1
 ### Computing Bias
-- 
+- 0.85/1
 ### Undecided Problems
+- 0.9/1
 ### Crowdsourcing
-### Legal Ethical Concerns
+- 0.91/1 
 ### Safe Computing
+- my own presentation
+
+### total 
+- 6.36/7
+
+
