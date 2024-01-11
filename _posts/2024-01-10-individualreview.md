@@ -31,6 +31,9 @@ type: plans
 ### Crowdsourcing
 - 0.91/1 
 
+### Leagal and ethical conerns
+- 0.9/1
+
 ### Safe Computing
 - my own presentation
 
@@ -38,3 +41,16 @@ type: plans
 - 6.36/7
 
 
+| 	Score   |	Grader Verification	 |  Extras	|  Key Indicators: Blog, GitHub File(s) and Key Commits |
+| --------- | ---------------------- | -------- | ----------------------------------------------------- |
+| The Internet	| 0.93/1 | | | 	 	 	 
+| Routing and Computing | 0.95/9  |	 	 |       |
+| Beneficial and Harmful Effects | 0.92/1  	 	 
+| Digital Divide | 0.9/1  	 	 	 
+| Computing Bias | 0.85/1	 	 	 
+| Crowdsourcing | 0.91/1 |	 	 	 	 
+| Legal Ethical Concerns | 0.9/1 |	 	 	 	 
+| Safe Computing | 1/1 |	 	 	 	 
+| CB Quiz |	 	 	 	 
+ 	 	 	 	 
+| Totals | Median Score: | Number complete: | Extra effort count: | Key tangible assets count: |
