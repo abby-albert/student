@@ -23,33 +23,3 @@
   <script src="script.js"></script>
 </body>
 </html>
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-}
-
-.login-container {
-  text-align: center;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-}
-
-button {
-  cursor: pointer;
-}
-
-function login() {
-  const username = document.getElementById('username').value;
-  const password = document.getElementById('password').value;
-
-  // Send the login data to the server (backend)
-  // You can use AJAX, Fetch API, or any other method to communicate with the server
-
-  // For this example, we'll simulate a successful login
-  alert(`Login Successful!\nUsername: ${username}`);
-}
