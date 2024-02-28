@@ -23,7 +23,7 @@ https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf
 | Use of at least one list (or other collection type) to represent a collectino of data that is stored and used to manage program complexity and help fulfill the users purpose. | An example of data collection is the highscore page, and in playing the game, your highest score is stored and you can then see it whenever you're playing. |
 | At least one procedure that contirubted to the program’s intened purpose where you have defined: the name, return type, one or more parameters: | This procedure has a name, a return, and parameters: https://github.com/abby-albert/student/blob/main/img1individualreview.png |
 | An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure | This function shows the sequencing, selection, and iteration through a list of different user ids: https://github.com/abby-albert/student/blob/main/img2individualreview.png |
-| Calls to your student-developed prodcedure: | ![Alt text](image-20.png) |
+| Calls to your student-developed prodcedure: | https://github.com/abby-albert/student/blob/10f92e7f40c7cbf3fc9d78276d801a398520cba7/Screen%20Shot%202024-02-27%20at%2010.41.11%20PM.png |
 | Instructions for output (tactile, audible, visual, or) based on input and program functionality | https://github.com/abby-albert/student/blob/main/Screen%20Shot%202024-02-27%20at%2010.44.40%20PM.png |	
 
 ## Component B: Video
