@@ -34,8 +34,8 @@ https://drive.google.com/file/d/1sTpyjbtHIXOxTwoh8FG_r4aTVhqonNKc/view?usp=shari
 
 | Collegboard Requirements | My Video |
 | ------------------------ | -------- |
-| Input to program | puting user ID and pasword into login and playing the game then reseting the game | the Gallary functionality which displays the database of users |
-| At least one aspect of the functionality of your program | 
+| Input to program | puting user ID and pasword into login and playing the game then reseting the game |
+| At least one aspect of the functionality of your program |  the Gallary functionality which displays the database of users |
 | Output produced by program: | the login took user to their game page and the score reset when the game reset while the highscore was saved |
 | My video does not have: | voice narration |	
 | My video is | close to 1 minute and a .mp |
