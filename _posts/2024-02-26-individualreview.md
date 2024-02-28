@@ -21,7 +21,7 @@ https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf
 | -------------------------- | -- |
 | Instructions for input from one of the following: the user, a device, an online datas stream, a file. | Our project has a user put in their login and output is taking the user to a page where they could play 4 different games. Another Input is using the left, right, up, and down arrows when playing 3/4 of the games, and the other is clicking the squares. The output would be the object moves in the way it is intended by the user and a revealing of different face cards, respectively. |
 | Use of at least one list (or other collection type) to represent a collectino of data that is stored and used to manage program complexity and help fulfill the users purpose. | An example of data collection is the highscore page, and in playing the game, your highest score is stored and you can then see it whenever you're playing. |
-| At least one procedure that contirubted to the program’s intened purpose where you have defined: the name, return type, one or more parameters: | This procedure has a name, a return, and parameters: url('/img1individualreview.png') |
+| At least one procedure that contirubted to the program’s intened purpose where you have defined: the name, return type, one or more parameters: | This procedure has a name, a return, and parameters: ![alt text](https://github.com/abby-albert/student/blob/c0c7c696c2a8a6ab92e89c786f1ecdf03466a1fb/img1individualreview.png) |
 | An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure | This function shows the sequencing, selection, and iteration through a list of different user ids: ![alt text](https://github.com/abby-albert/student/blob/c0c7c696c2a8a6ab92e89c786f1ecdf03466a1fb/img1individualreview.png)
  |
 |Calls to your student-developed prodcedure: | ![alt text](https://github.com/abby-albert/student/blob/10f92e7f40c7cbf3fc9d78276d801a398520cba7/Screen%20Shot%202024-02-27%20at%2010.41.11%20PM.png) |
@@ -30,7 +30,7 @@ https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf
 ## Component B: Video
 
 My link to video:
-/Users/abigailalbert/vscode/student/individual review demo.mp4
+https://drive.google.com/file/d/1sTpyjbtHIXOxTwoh8FG_r4aTVhqonNKc/view?usp=sharing
 
 | Collegboard Requirements | My Video |
 | ------------------------ | -------- |
