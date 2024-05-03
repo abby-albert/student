@@ -1,0 +1,79 @@
+---
+toc: True
+comments: true
+layout: post
+title: Data Structures write up
+description: write up for data structures
+courses: {'csa': {'week': 31}}
+type: tangibles
+---
+
+# Write Up for Data Structures ML Project
+
+## what is our project?
+- Our project is designed to help people live a better life. We collaborated to put in study tools to improve your grades, exercise tips to improve your health, and college search to help you get a jumpstart to your college career. I put together the study tools, which include fun games and a grade calculator. The grade calculator was the main part of the ML project, for it uses the backend that was modeled from titanic. 
+
+## Backend 
+### Collections
+#### python model code
+<img width="1470" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/8149d8af-99e8-49b2-ba1f-0b01519128a2">
+
+#### SQLite Database
+<img width="1101" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/0f0a4ad6-4872-4a72-b72a-aa54e67302f9">
+
+### Lists and Dictionaries
+#### list as extracted from database as Python objects
+<img width="544" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/9e66dade-cc7b-42cb-bc1f-6b9047fe2643">
+
+#### two distinct example examples of dictionaries
+<img width="521" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/d8cb0a4f-7fdb-4754-878a-34a322eab8e0">
+<img width="454" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/fc20dd44-9642-4b31-b33d-5211a0c2a909">
+
+### APIs and JSON
+#### Python API code (GET, POST, UPDATE)
+<img width="551" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/bfc43d77-9251-4264-b24c-853eeaf7f302">
+<img width="932" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/9025a4e0-5897-4fa5-a5b4-d8c42ff17741">
+
+###  Algorithmic conditions
+
+#### URL request and Body requirements for GET, POST, and UPDATE methods and JSON response data for 200 success conditions on GET, POST, and UPDATE methods and (postman)
+![image](https://github.com/abby-albert/s2/assets/142523000/9858d575-5216-4c41-a392-1569bdd65293)
+![image](https://github.com/abby-albert/s2/assets/142523000/a1149ba5-bb0a-4fc3-bda7-334501cb20c5)
+
+- JSON response for error for 400 when missing body on a POST request (postman)
+![image](https://github.com/abby-albert/s2/assets/142523000/2169b9be-6ac9-4add-8817-a553d4207fdb)
+- JSON response for error for 404 when providing an unknown user ID to a UPDATE request (postman)
+<img width="146" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/5f2c96bd-1f31-4255-bb76-45ceaf778492">
+
+## Frontend 
+### Blog JavaScript API fetch code and formatting code to display JSON
+<img width="781" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/1a3c772a-d8f6-413b-9060-9eca876dfac5">
+
+#### show response of JSON objects from fetch of GET and POST methods (chrome inspect)
+<img width="1470" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/6b4d1013-ed87-436e-8d3a-1ecd0fb02047">
+<img width="1470" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/5035bc90-9f4f-4d0f-8307-151bd573143b">
+
+#### show a demo (GET) of obtaining an Array of JSON objects that are formatted into the browsers screen 
+ - describe fetch and method that obtained the Array of JSON objects (javascript)
+ In JavaScript, the fetch API is commonly utilized to fetch resources from a server by making network requests. When obtaining an array of JSON objects using fetch, you typically initiate the request to a specific endpoint on the server. Upon receiving the response, you handle it in a .then() block where you check the response's status and parse its body as JSON. This parsed JSON data, representing an array of objects, is then available for manipulation or display in your application. It's crucial to include error handling using .catch() to manage any potential issues that may arise during the fetching process, such as network errors or server-side problems. By following these steps, you can effectively retrieve and utilize JSON data in your JavaScript application.
+
+ - show code that performs iteration and formatting of data into HTML (javascript)
+<img width="993" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/14305520-d620-4d77-960f-6d12d0eba3bd">
+![image](https://github.com/abby-albert/s2/assets/142523000/1cabb470-ef6d-4dcc-86c8-bcdd02223e88)
+
+
+#### show a demo (POST or UPDATE) gathering and sending input and receiving a response that show update. Repeat this demo showing both success and failure.
+- show and describe code that handles success. Describe how code shows success to the user in the Chrome Browser screen (javascript)
+<img width="758" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/70ac982b-5f81-490f-a863-e77cc33ff072">
+The provided JavaScript code exemplifies how to handle a successful fetch operation and communicate the fetched data to the user on the Chrome Browser screen. Upon invoking the fetchData function, a request is made to a designated server endpoint. Inside the fetch promise chain, the response from the server is evaluated to determine if it signifies a successful request, assessed by examining the status code. If the response denotes an unsuccessful request, an error is triggered. Conversely, if the fetch operation proves successful, the response body is parsed as JSON within the subsequent .then() block. Subsequently, the parsed JSON data is processed; in this instance, it is logged to the console and presented to the user. The fetched data is exhibited to the user on the Chrome Browser screen by dynamically generating a list (<ul>) element to encapsulate the data. For each item in the data array, a list item (<li>) element is generated and populated with details from the item. These list items are appended to the list element, which, in turn, is appended to the <body> of the HTML document. In the event of an error during the fetch operation, the code logs the error to the console and furnishes an error message to the user, mirroring the failure handling outlined in the previous example. When executed in the Chrome Browser and encountering a successful fetch operation, the obtained data is presented on the screen as a list, providing the user with the requested information in a clear and organized manner.
+
+- show and describe code that handles failure. Describe how the code shows failure to the user in the Chrome Browser screen (javascript)
+<img width="510" alt="image" src="https://github.com/abby-albert/s2/assets/142523000/cc75fbe5-9ef2-4cb2-bfff-e1bfee3cf6b7">
+The provided JavaScript code demonstrates how to handle failure during a fetch operation and communicate the failure to the user on the Chrome Browser screen. When the fetchData function is invoked, it initiates a request to the specified server endpoint. Within the fetch promise chain, the code checks if the response from the server is successful by examining the status code. If the response indicates an unsuccessful request, an error is thrown. The subsequent .catch() block catches any errors that occur during the fetch operation, including network issues or server-side problems. In the event of an error, the code logs the error to the console for debugging purposes. Additionally, it dynamically creates a new paragraph (<p>) element to hold the error message, setting its text content to 'Failed to fetch data. Please try again later.'. This error message element is then appended to the <body> of the HTML document. Consequently, if the fetch operation fails, the error message is displayed on the Chrome Browser screen, informing the user of the encountered problem and advising them to try again later.
+
+## Optional/Extra, Algorithm Analysis
+#### Discuss concepts and understanding of Linear Regression algorithms.
+Linear regression is a statistical technique used to model the relationship between a dependent variable (target) and one or more independent variables (predictors). It assumes a linear relationship between the variables, aiming to find the best-fitting line that minimizes the differences between observed and predicted values. In simple linear regression, there's one predictor variable, while multiple linear regression involves multiple predictors. The regression line's equation, y = mx + b, represents the relationship, where y is the predicted value, x is the predictor, m is the slope, and b is the intercept. Assumptions include linearity, independence of residuals, homoscedasticity, and normality of residuals. Coefficients are estimated using methods like ordinary least squares. Interpretation of coefficients involves understanding the change in the target for a one-unit change in the predictor. Model fit is evaluated using metrics like R-squared and RMSE. Linear regression is a widely-used tool in various fields for tasks such as prediction and analysis due to its simplicity and effectiveness in modeling relationships between variables.
+
+#### Discuss concepts and understanding of Decision Tree analysis algorithms.
+Decision tree analysis is a popular machine learning algorithm used for classification and regression tasks. It operates by recursively partitioning the input space into regions based on the values of input features, creating a tree-like structure where each internal node represents a decision based on a feature and each leaf node represents a class label or a predicted value. The algorithm selects the best feature to split the data at each node based on criteria such as information gain or Gini impurity, aiming to maximize the homogeneity of the resulting subsets. Decision trees are interpretable, as they represent a sequence of simple if-else rules, making them useful for understanding the decision-making process. However, they are prone to overfitting, especially when the tree depth is not properly controlled, which can lead to poor generalization performance on unseen data. Techniques such as pruning, limiting the tree depth, or using ensemble methods like random forests are often employed to mitigate overfitting and improve the model's performance.
