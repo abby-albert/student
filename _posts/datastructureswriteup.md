@@ -1,11 +1,10 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
-title: Data Structures write up
-description: individual review for csp
+title: data strucutres writeup 
 type: hacks
-courses: { csa: {week: 31} }
+courses: { csa: {week: 19} }
 ---
 
 # Write Up for Data Structures ML Project
