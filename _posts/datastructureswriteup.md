@@ -5,7 +5,7 @@ layout: post
 title: Data Structures write up
 description: individual review for csp
 type: hacks
-courses: { csa: {week: 24} }
+courses: { csa: {week: 31} }
 ---
 
 # Write Up for Data Structures ML Project
